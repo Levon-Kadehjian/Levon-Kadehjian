@@ -1,4 +1,4 @@
-## Hi I'm Levon Kadehjian 👋  
+## Hello I'm Levon Kadehjian 👋  
 
 I’m a Software Engineering student at Concordia University in Montreal, Canada.   
 
