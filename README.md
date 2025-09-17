@@ -50,7 +50,7 @@ I’m a Software Engineering student at Concordia University in Montreal, Canada
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/levon-kadehjian/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Levon LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/levon-kadehjian/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Levon LinkedIn" height="30" width="40" /></a>
 <a href="mailto:levon.kade@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
 </p>
 
