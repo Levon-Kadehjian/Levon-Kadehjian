@@ -14,7 +14,7 @@ I’m a Software Engineering student at Concordia University in Montreal, Canada
       <td style="text-align: center;">
         <h2 style="text-align: center;">🖥️ Languages </h2>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cs,clojure&theme=dark" alt="Languages">
+          <img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,cs,clojure&theme=dark" alt="Languages">
         </a>
       </td>
       <td style="text-align: center;">
